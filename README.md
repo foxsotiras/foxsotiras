@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-## I'm Johny Fox, also known as FoxSotiras 🦊
+## I'm Johnny Fox, also known as FoxSotiras 🦊
 
 ### Languages I write in
 
