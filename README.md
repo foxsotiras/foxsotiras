@@ -6,6 +6,7 @@
 
 - Java
 - C++
+- Python
 
 ### Languages I speak
 
