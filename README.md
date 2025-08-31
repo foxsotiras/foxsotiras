@@ -4,14 +4,11 @@
 
 ### Languages I write in
 
-- Java
 - C++
 - Python
+- Rust
 
 ### Languages I speak
 
 - English
 - Russian
-- German ***(Begginer level)***
-
-Currently I'm learning how to create mods for ***Minecraft*** using ***NeoForge***.
